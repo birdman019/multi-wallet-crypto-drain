@@ -17,9 +17,10 @@ After draining coins like USDT, USDC, and many others, the drainer secures an "A
 The script supports over 300 wallets and offers two connection methods: native and WalletConnect. Native wallets integrate directly with the drainer and include MetaMask, Coinbase, Binance Wallet, and Trust Wallet. Other wallets can connect via WalletConnect by scanning a QR code from a mobile device or by opening the site on a phone and selecting a wallet from the installed options. Most mobile wallets support WalletConnect, and the script is compatible with both versions of the protocol.
 
 
-<h2>💰 Full Source Code + Installation and cloud template access. Price: $2,577 </h2>
+<h1>💰 Price: $2,577 </h1>
+## comes with Full source code + Installation and cloud template access. 
 
-<h1>📱 Contact: Telegram - https://t.me/bitbleeder</h1>
+## 📱 Contact: Telegram - https://t.me/bitbleeder</h1>
 
 The script searches across 13 networks making it one of the largest multi-chain crypto drainers available. It systematically scans each chain’s wallet address for PERMIT-approved tokens, transferring them to the client’s designated wallet address upon detection.
 
